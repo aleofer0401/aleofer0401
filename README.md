@@ -1,5 +1,6 @@
-### Hi there 👋😃
-### 🌱 I’m currently learning code
+### Hi there! 👋😃
+### I’m currently learning code 🧐
+### I got some knowledge about CSS, HTML, JAVA 💻
 
 <!--
 **aleofer0401/aleofer0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
