@@ -1,9 +1,14 @@
-# Hi there I'm Antonio Jesús León Fernández! 👋😃
+# I'm Antonio Jesús León Fernández! 👋😃
 
 ## About me:
 ### I'm from Los Palacios y Villafranca (Sevilla) 📍
 ### I’m currently learning code on IES Al-Mudeyne 🧐
-### I got some knowledge about CSS3, HTML5, JAVA, JAVASCRIPT 💻
+
+## My professional achievements:
+### Bachelor of Social Sciences at IES Diego Llorente 🥇
+### B1 level of English obtained by Trinity University 🇬🇧
+### Web Application Development studies at IES AL-Mudeyne in progress... ⏳
+### I got some knowledge about CSS3, HTML5, XML, JAVA, JAVASCRIPT 💻
 
 ## My capabilities:
 ###      - I'm good co-worker 👍
