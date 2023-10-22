@@ -1,14 +1,14 @@
-# I'm Antonio Jesús León Fernández! 👋😃
+# I'm ***Antonio Jesús León Fernández***! 👋😃
 
 ## About me:
 ### I'm from Los Palacios y Villafranca (Sevilla) 📍
-### I’m currently learning code on IES Al-Mudeyne 🧐
+### I’m currently learning code on _IES Al-Mudeyne_ 🧐
 
 ## My professional achievements:
-### Bachelor of Social Sciences at IES Diego Llorente 🥇
-### B1 level of English obtained by Trinity University 🇬🇧
-### Web Application Development studies at IES AL-Mudeyne in progress... ⏳
-### I got some knowledge about CSS3, HTML5, XML, JAVA, JAVASCRIPT 💻
+### Bachelor of Social Sciences at _IES Diego Llorente_ 🥇
+### B1 level of English obtained by _Trinity University_ 🇬🇧
+### Web Application Development studies at _IES AL-Mudeyne_ in progress... ⏳
+### I got some knowledge about ___CSS3___, ___HTML5___, ___XML___, ___JAVA___, ____JAVASCRIPT___ 💻
 
 ## My capabilities:
 ###      - I'm good co-worker 👍
@@ -18,8 +18,8 @@
 ###      - I learn every day 📖 📝
 
 ##  How to reach me:
-###      - 📫 mail: antleonfdez01@gmail.com
-###      - 📞 phone number: 651931016 
+###      - 📫 mail: __antleonfdez01@gmail.com__
+###      - 📞 phone number: **651931016** 
 
 <!--
 **aleofer0401/aleofer0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
